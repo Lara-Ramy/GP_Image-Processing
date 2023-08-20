@@ -1,0 +1,6 @@
+train: C:\Users\larar\Desktop\Uni\gp\Coding\Model_Training\train
+val: C:\Users\larar\Desktop\Uni\gp\Coding\Model_Training\val
+
+nc: 6
+
+names: ["Physiomer", "Yellow Box", "Pink Box", "Red Box", "Black Box", "Centrum"]
